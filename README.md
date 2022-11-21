@@ -8,9 +8,8 @@ The official PyTorch implementation of ReSmooth introduced in the following pape
 > IEEE Transactions on Neural Networks and Learning Systems, 2022.
 
 The overall framework of the proposed method is as follows.
-
 <div align=left>
-    <img src="C:\Users\wang1\Desktop\ReSmooth\figs\framework.bmp" alt="framework" style="zoom:73%;" /> </div>
+    <img src=".\figs\framework.bmp" alt="framework" width=64%;" /> </div>
 
 ## Introduction
 
